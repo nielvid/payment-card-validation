@@ -1,0 +1,47 @@
+body{
+ 
+    font-size: 16px;
+    background-color: rgb(217, 224, 236);
+  
+}
+.container{
+    width: 90%;
+    margin: auto;
+    
+    
+}
+.container h3{
+    text-align: center;
+}
+.wrapper{
+    width: 25%;
+  padding: 25px;
+margin-left: 15%;
+   float: left;
+    background-color: rgb(206, 212, 223);
+    font-size: 16px;
+    border-right: cornflowerblue 10px solid;
+}
+.wrapper h2{
+      text-decoration: underline;  
+}
+.ValMsg{
+    font-size: 18px;
+    color: black;
+    text-decoration: underline;
+}
+.output{
+    float: right;
+    width: 35%;
+    height:350px;
+    margin-right: 15%;
+    padding-left: 20px;
+    background-color: rgb(206, 212, 223);
+    border-left: cornflowerblue 10px solid;
+    
+
+}
+.output h4{
+    text-align: center;
+    text-decoration: underline;
+}
